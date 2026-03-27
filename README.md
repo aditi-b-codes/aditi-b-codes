@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Aditi Bhardwaz 👋
+
+🎓 B.Tech CSE Student (1st Year)  
+🏫 VIT Bhopal University  
+💻 Interested in AI and Software Development  
+
+🌱 I am currently learning and exploring new technologies to build my skills.
 
 <!--
 **aditi-b-codes/aditi-b-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
